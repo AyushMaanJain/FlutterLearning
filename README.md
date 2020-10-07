@@ -1,6 +1,5 @@
 # FlutterLearning
-I have start learning flutter which is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase and
-I have start learning dart programming language which is similar to Java and JavaScript.
+I have start learning flutter which is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase named dart which is similar to Java and JavaScript.
 
 # Learned
 ## Hello world
