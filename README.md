@@ -6,4 +6,4 @@ I have start learning flutter which is Google’s UI toolkit for building beauti
 It is just a simple ui which contains a text "Hello world" it does not perform any function
 
 ## Material
-It involves also ui deign based on standerd android application each Ui design have customised by user like Appbar.
+It involves only ui deign based on standerd android application each Ui design have customised by user like Appbar,navbar. But does not performing any action
